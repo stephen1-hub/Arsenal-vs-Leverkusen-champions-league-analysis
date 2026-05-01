@@ -14,13 +14,13 @@ This project provides a **data-driven analysis** of the Champions League match b
 - **Visualizations:** Bar charts, xG comparisons, and shot maps  
 
 ## Insights
-
 - Arsenal dominated both **shot volume (21 vs 9)** and **xG (1.75 vs 0.52)**  
 - Top shooters: **Bukayo Saka** & **Leandro Trossard** (5 shots each)  
 - Arsenal created **diverse attacking situations**, including assisted plays and set pieces  
 - Leverkusen relied mostly on assisted plays and corners, with limited attacking variety  
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bd98cffb-f7e0-4cb7-a0c2-d4ebb5d7b9ae" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/98fdc729-3a82-42b2-893a-0c1a169d8af5" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/232abbae-dcce-46df-97e5-d992314f3b4d" />
+
 
 ## Project Structure
 arsenal_vs_leverkusen_analysis/
