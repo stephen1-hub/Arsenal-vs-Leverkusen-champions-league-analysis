@@ -19,7 +19,6 @@ This project provides a **data-driven analysis** of the Champions League match b
 - Arsenal created **diverse attacking situations**, including assisted plays and set pieces  
 - Leverkusen relied mostly on assisted plays and corners, with limited attacking variety  
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bd98cffb-f7e0-4cb7-a0c2-d4ebb5d7b9ae" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/232abbae-dcce-46df-97e5-d992314f3b4d" />
 
 
 ## Project Structure
