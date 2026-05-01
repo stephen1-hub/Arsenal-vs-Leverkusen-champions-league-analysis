@@ -11,7 +11,9 @@ This project provides a **data-driven analysis** of the Champions League match b
 - **xG Analysis:** Quality of scoring opportunities for each team  
 - **Shot Situations:** Breakdown of shots by assisted plays, corners, fast breaks, free kicks, and throw-ins  
 - **Top Player Contributions:** Identifies key attacking players  
-- **Visualizations:** Bar charts, xG comparisons, and shot maps  
+- **Visualizations:** Bar charts, xG comparisons, and shot maps
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6640dfd3-780a-47ae-b4b5-d8761b0d7c1f" />
+
 
 ## Insights
 - Arsenal dominated both **shot volume (21 vs 9)** and **xG (1.75 vs 0.52)**  
